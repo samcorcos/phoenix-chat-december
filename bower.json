@@ -1,0 +1,21 @@
+{
+  "name": "chat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sam Corcos <sam@corcos.io>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
